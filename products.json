@@ -1,0 +1,50 @@
+{
+  "101082936": {
+    "internalId": "101082936",
+    "name": "(R&D) CHEW TREAT BLANK",
+    "aliasName": "",
+    "form": "Chew",
+    "strength": "",
+    "ndcCode": "99101-0829-36",
+    "packaging": "",
+    "storage": "",
+    "compound": "y",
+    "sterile": "Chew",
+    "dispensable": "y",
+    "directions": "TBD",
+    "daysToExpire": "",
+    "refills": "L"
+  },
+  "100690986": {
+    "internalId": "100690986",
+    "name": "(R&D) FOX 04 DRI  10mg/ml",
+    "aliasName": "",
+    "form": "Injection",
+    "strength": "10MG/ML (5ML)",
+    "ndcCode": "99999-6909-86",
+    "packaging": "",
+    "storage": "",
+    "compound": "y",
+    "sterile": "Injection",
+    "dispensable": "y",
+    "directions": "",
+    "daysToExpire": "",
+    "refills": "L"
+  },
+  "100812325": {
+    "internalId": "100812325",
+    "name": "(R&D) TEST SAMPLE 3",
+    "aliasName": "",
+    "form": "Topical",
+    "strength": "2MG/ML",
+    "ndcCode": "91999-0531-25",
+    "packaging": "Pump",
+    "storage": "",
+    "compound": "y",
+    "sterile": "Topical",
+    "dispensable": "y",
+    "directions": "",
+    "daysToExpire": "",
+    "refills": "O"
+  }
+}
